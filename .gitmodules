@@ -1,0 +1,3 @@
+[submodule "Unity-Game"]
+	path = Unity-Game
+	url = https://github.com/jhllc/Unity-Game
